@@ -1,0 +1,7 @@
+#
+/bin/bash
+
+julia -e '
+using Plots
+using Interact
+'
